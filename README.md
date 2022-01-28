@@ -1,5 +1,5 @@
 # sap-api-patch-header-setup  
-sap-api-patch-header-setup は、主にエッジコンピューティング環境において、[sap-sandbox](https://github.com/latonaio/sap-sandbox) が対象とする SAP APIs ならびに 各 SAP API Integrations の Runtimes のうち「creates」に分類される APIs ならびに Runtimes について、当該 Runtimes において patch する Json フォーマットに対して必要なヘッダ情報を付与するマイクロサービスです。
+sap-api-patch-header-setup は、主にエッジコンピューティング環境において、[sap-sandbox](https://github.com/latonaio/sap-sandbox) が対象とする SAP APIs ならびに 各 SAP API Integrations の Runtimes のうち「updates」に分類される APIs ならびに Runtimes について、当該 Runtimes において patch する Json フォーマットに対して必要なヘッダ情報を付与するマイクロサービスです。
 
 ## 動作環境  
 sap-api-patch-header-setup は、主にエッジコンピューティング環境における動作にフォーカスしています。  
